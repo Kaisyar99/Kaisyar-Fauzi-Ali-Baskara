@@ -18,3 +18,4 @@ Buka terminal dan navigasikan ke folder project ini.
 Jalankan perintah berikut:
 g++ -o soal1 soal1.cpp
 ./soal1
+
