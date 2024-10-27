@@ -2,9 +2,13 @@ Repository ini berisi solusi dari soal-soal Ujian Tengah Semester (UTS) mata kul
 
 Struktur Folder
 soal1.cpp: Implementasi array dan pointer.
+
 soal2.cpp: Mengelola inventaris dengan struct dan file handling.
+
 soal3.cpp: Kalkulator postfix menggunakan stack.
+
 soal4.cpp: Simulasi antrian pelanggan menggunakan queue.
+
 soal5.cpp: Manajemen perpustakaan dengan kombinasi struktur data.
 
 Cara Menjalankan Program
